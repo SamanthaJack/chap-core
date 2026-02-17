@@ -28,3 +28,6 @@ If you find any bugs or issues when using this code base, we appreciate it if yo
 cp .env.example .env
 docker compose up
 ```
+
+## Adding my name
+Sam Zermatten-Jack
