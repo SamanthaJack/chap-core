@@ -31,3 +31,4 @@ docker compose up
 
 ## Adding my name
 Sam Zermatten-Jack
+Today is the 17/02/2026
